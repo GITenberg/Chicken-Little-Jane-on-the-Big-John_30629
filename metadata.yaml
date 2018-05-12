@@ -1,0 +1,26 @@
+_repo: Chicken-Little-Jane-on-the-Big-John_30629
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ritchie, Lily Munsell
+    gutenberg_agent_id: '26143'
+    url: http://www.gutenberg.org/2009/agents/26143
+description: ''
+gutenberg_issued: '2009-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30629'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kansas -- Juvenile fiction'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+title: Chicken Little Jane on the Big John
+url: http://www.gutenberg.org/ebooks/30629
