@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26143'
     url: http://www.gutenberg.org/2009/agents/26143
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30629#Chicken-Little-Jane-on-the-Big-John
 gutenberg_issued: '2009-12-08'
 gutenberg_type: Text
 identifiers:
